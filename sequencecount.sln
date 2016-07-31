@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sequencecount", "sequencecount\sequencecount.csproj", "{C9BC7920-A75F-425A-8DE5-40183E4F833C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sequencecount.Tests", "sequencecount.Tests\sequencecount.Tests.csproj", "{388AC9CD-0437-450C-8AB6-909138D03A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9BC7920-A75F-425A-8DE5-40183E4F833C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BC7920-A75F-425A-8DE5-40183E4F833C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BC7920-A75F-425A-8DE5-40183E4F833C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BC7920-A75F-425A-8DE5-40183E4F833C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388AC9CD-0437-450C-8AB6-909138D03A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388AC9CD-0437-450C-8AB6-909138D03A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388AC9CD-0437-450C-8AB6-909138D03A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388AC9CD-0437-450C-8AB6-909138D03A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
