@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace sequencecount.Properties {
+namespace SequenceCount.Properties {
     using System;
     
     

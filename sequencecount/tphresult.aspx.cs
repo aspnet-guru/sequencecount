@@ -11,10 +11,10 @@ namespace sequencecount
         {
         protected void Page_Load(object sender, EventArgs e)
             {
-            sequence findPat = new sequence();
+            Sequence FindPat = new Sequence();
 
             //find contiguous string pattern and assign to literal control
-            tphlit101.Text =  findPat.findPathSeq(findPat.getSubPaths());              
+            Tphlit101.Text =  FindPat.FindPathSeq(FindPat.GetSubPaths());              
             }
         }
     }
